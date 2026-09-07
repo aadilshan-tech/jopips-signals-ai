@@ -1,6 +1,6 @@
 export const LINKS = {
-  // Your Free Trial Telegram group/channel link:
-  trialTelegram: 'https://t.me/+-T8RglzaJdxiZjM1',
+  // Your NEW Free Trial Telegram group link:
+  trialTelegram: 'https://t.me/+l2gyOqh7UTtiOTll',
 
   // VIP inquiries directly to your Telegram (@josephchacko16):
   vipTelegram: 'https://t.me/josephchacko16?text=Hi%2C%20I%20am%20interested%20in%20joining%20JOPIPS%20VIP%20Signals',
@@ -15,7 +15,7 @@ export const LINKS = {
   brokerSignup: 'https://client.mhmarkets.com/signup?partnerCode=1829HVVD',
 };
 
-// Aliases for backward compatibility
+// Aliases for backward compatibility across all buttons
 export const TELEGRAM_LINKS = {
   trial: LINKS.trialTelegram,
   vip: LINKS.vipTelegram,
