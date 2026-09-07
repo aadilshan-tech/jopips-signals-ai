@@ -1,6 +1,6 @@
 export const LINKS = {
   // Your permanent, non-expiring public Telegram link:
-  trialTelegram: 'https://t.me/jopipstrial',
+  trialTelegram: 'https://t.me/jopipsfreesignal',
 
   // VIP inquiries directly to your Telegram (@josephchacko16):
   vipTelegram: 'https://t.me/josephchacko16?text=Hi%2C%20I%20am%20interested%20in%20joining%20JOPIPS%20VIP%20Signals',
